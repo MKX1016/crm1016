@@ -7,6 +7,7 @@ public class Client {
 		System.out.println("Hello Git");
 		System.out.println("Hello Mao");
 		System.out.println("Hello Kaixuan");
+		System.out.println("bbbbbbbbbbbbbb");
 	}
 
 }
